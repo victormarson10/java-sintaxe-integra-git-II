@@ -17,11 +17,11 @@ public class Operadores {
         System.out.println(segundonumero);
 
         String simNaoResult;
-        boolean simNao = true;
+        /*boolean simNao;*/
 
-        simNao = primeironumero == segundonumero;
+        boolean simNao = primeironumero == segundonumero;
 
-        /*String simNaoResult = (simNao = false ? "Falso" : "Verdadeiro");*/
+        /* String simNaoResult = (simNao = false ? "Falso" : "Verdadeiro"); */
 
         if (simNao) {
             simNaoResult = "O número " + primeironumero + " é igual ao " + segundonumero + "!";
