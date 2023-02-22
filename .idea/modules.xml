@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SintaxeTeste/SintaxeTeste.iml" filepath="$PROJECT_DIR$/SintaxeTeste/SintaxeTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-sintaxe-integra-git-II.iml" filepath="$PROJECT_DIR$/.idea/java-sintaxe-integra-git-II.iml" />
+    </modules>
+  </component>
+</project>
