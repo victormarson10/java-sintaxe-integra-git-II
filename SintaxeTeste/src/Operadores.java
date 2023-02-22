@@ -24,9 +24,9 @@ public class Operadores {
         /*String simNaoResult = (simNao = false ? "Falso" : "Verdadeiro");*/
 
         if (simNao) {
-            simNaoResult = "O número " + primeironumero + " é igual ao " + segundonumero ;
+            simNaoResult = "O número " + primeironumero + " é igual ao " + segundonumero + "!";
         } else {
-            simNaoResult = "O número " + primeironumero + " não é igual ao " + segundonumero;
+            simNaoResult = "O número " + primeironumero + " não é igual ao " + segundonumero + "!";
         }
 
         System.out.println("Número " + primeironumero + " é igual ao número " + segundonumero + "? " + simNaoResult);
